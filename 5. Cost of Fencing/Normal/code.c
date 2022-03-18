@@ -9,7 +9,7 @@ int main()
     scanf("%d",&b);
 
     peri=2*(l+b);
-    printf("The area is : %d metre \n ",peri);
+    printf("The perimeter is : %d metre \n ",peri);
 
     cost=25*peri;
     printf("The cost is : Rs. %d\n",cost);
